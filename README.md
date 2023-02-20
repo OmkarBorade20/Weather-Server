@@ -1,3 +1,3 @@
 "# Weather-server" 
 Site
-https://borade-weather-app.herokuapp.com/
+https://weather-app-omkar-borade.onrender.com
